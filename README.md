@@ -1,2 +1,2 @@
-- https://discord.gg/optimize
-- https://optimize.lol/
+- https://discord.gg/shredded
+- https://shredded.cc/
