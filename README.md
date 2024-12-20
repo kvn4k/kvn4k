@@ -1,2 +1,1 @@
-- https://discord.gg/shredded
-- https://shredded.cc/
+
